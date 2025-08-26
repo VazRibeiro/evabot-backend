@@ -2,6 +2,10 @@
 *.exe
 *.test
 *.out
+evabot-backend
+
+# Go workspace checksums (auto-generated)
+go.work.sum
 
 # IDE files
 .vscode/
