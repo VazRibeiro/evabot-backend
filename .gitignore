@@ -10,3 +10,6 @@ go.work.sum
 # IDE files
 .vscode/
 .idea/
+
+# secrets
+.envrc
